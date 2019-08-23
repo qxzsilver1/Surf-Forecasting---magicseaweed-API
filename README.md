@@ -1,1 +1,1 @@
-# Surf-Forecasting---magicseaweed-API
+# Surf-Forecasting-using-magicseaweed-API
